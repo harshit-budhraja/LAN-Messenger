@@ -1,5 +1,9 @@
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![GitHub Stars](https://img.shields.io/github/stars/harshitbudhraja/LAN-Messenger.svg)](https://github.com/harshitbudhraja/LAN-Messenger/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/harshitbudhraja/LAN-Messenger.svg)](https://github.com/harshitbudhraja/LAN-Messenger/issues)
+[![Current Version](https://img.shields.io/badge/version-0.1-green.svg)](https://github.com/harshitbudhraja/LAN-Messenger)
+
 # LAN Messenger
 LAN Messenger is an *open-source, versatile, minimal and a simple light-weight* messenger, which helps you chat with your friends, collegues, co-workers etc. when you are on a common network. This messenger doesn't need you to be connected to the internet. Where Whatsapp, Line, WeChat, Viber etc. won't work, **LAN Messenger** comes in handy forever.
 
