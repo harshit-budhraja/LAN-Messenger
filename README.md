@@ -3,9 +3,9 @@ LAN Messenger is an *open-source, versatile, minimal and a simple light-weight* 
 
 # Downloads
 LAN Messenger is cross-platform. For now, it supports android, windows and linux platforms. To download, click the respective download links below.<br><br>
-[<img src="https://github.com/harshitbudhraja/LAN-Messenger/blob/master/images/androidlogo.png">](https://github.com/harshitbudhraja/LAN-Messenger/blob/master/Downloads/lanmessenger.apk)
-[<img src="https://github.com/harshitbudhraja/LAN-Messenger/blob/master/images/linuxlogo.png">](https://github.com/harshitbudhraja/LAN-Messenger/blob/master/Downloads/lanmessenger.jar)
-[<img src="https://github.com/harshitbudhraja/LAN-Messenger/blob/master/images/windowslogo.png">](https://github.com/harshitbudhraja/LAN-Messenger/blob/master/Downloads/lanmessenger.exe)<br>
+[<img src="/images/androidlogo.png" width="272" height="64">](https://github.com/harshitbudhraja/LAN-Messenger/blob/master/Downloads/lanmessenger.apk)
+[<img src="https://github.com/harshitbudhraja/LAN-Messenger/blob/master/images/linuxlogo.png" width="272" height="64">](https://github.com/harshitbudhraja/LAN-Messenger/blob/master/Downloads/lanmessenger.jar)
+[<img src="https://github.com/harshitbudhraja/LAN-Messenger/blob/master/images/windowslogo.png" width="272" height="64">](https://github.com/harshitbudhraja/LAN-Messenger/blob/master/Downloads/lanmessenger.exe)<br>
 
 # License
 **Copyright &copy;2016 Arachnis Apps**<br>
