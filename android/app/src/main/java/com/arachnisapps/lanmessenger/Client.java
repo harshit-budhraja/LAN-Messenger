@@ -26,7 +26,7 @@ public class Client {
     public void startClient(String host) {
         try
         {
-            int port = 5321;
+            int port = 53;
             InetAddress address = InetAddress.getByName(host);
             socket = new Socket(address, port);
             is = socket.getInputStream();

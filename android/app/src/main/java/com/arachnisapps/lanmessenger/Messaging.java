@@ -1,21 +1,13 @@
 package com.arachnisapps.lanmessenger;
 
 import android.content.DialogInterface;
-import android.media.audiofx.BassBoost;
 import android.net.wifi.WifiManager;
-import android.os.AsyncTask;
-import android.os.Build;
-import android.provider.Settings;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.format.Formatter;
 import android.text.method.ScrollingMovementMethod;
-import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -32,7 +24,7 @@ public class Messaging extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         client = new Client();
         setContentView(R.layout.activity_messaging);
-        wm = (WifiManager) getSystemService(WIFI_SERVICE);
+        wm = (WifiManager) getApplicationContext().getSystemService(WIFI_SERVICE);
         myIP = Formatter.formatIpAddress(wm.getConnectionInfo().getIpAddress());
         Toast.makeText(getApplicationContext(),(CharSequence) Selection.hostIP,Toast.LENGTH_SHORT).show();
 
@@ -50,6 +42,9 @@ public class Messaging extends AppCompatActivity {
                 chatarea.setText(chat);
                 chatarea.setTextColor(getResources().getColor(R.color.black));
                 messagetext.setText(null);
+            }
+
+            private void sendtoserver(String hostIP, String chat) {
             }
         });
 
