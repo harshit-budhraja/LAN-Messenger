@@ -21,7 +21,7 @@ public class ServerMessaging extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_servermessaging);
-        wm = (WifiManager) getSystemService(WIFI_SERVICE);
+        wm = (WifiManager) getApplicationContext().getSystemService(WIFI_SERVICE);
         myIP = Formatter.formatIpAddress(wm.getConnectionInfo().getIpAddress());
 
         final TextView chatarea = (TextView) findViewById(R.id.chatarea);
