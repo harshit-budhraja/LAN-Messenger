@@ -5,6 +5,9 @@
 [![Current Version](https://img.shields.io/badge/version-0.1-green.svg)](https://github.com/harshitbudhraja/LAN-Messenger)
 
 # LAN Messenger
+
+<b>THIS PROJECT IS NO LONGER MAINTAINED.</b> However, feel free to fork it and use it to your heart's content.
+
 LAN Messenger is an *open-source, versatile, minimal and a simple light-weight* messenger, which helps you chat with your friends, collegues, co-workers etc. when you are on a common network. This messenger doesn't need you to be connected to the internet. Where Whatsapp, Line, WeChat, Viber etc. won't work, **LAN Messenger** comes in handy forever.
 
 * [Download](#download-)
